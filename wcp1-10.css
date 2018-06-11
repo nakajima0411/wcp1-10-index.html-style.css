@@ -31,12 +31,10 @@ header{
     top: 5px;
 }
 .nav{
-  padding: 10px 0;
   margin: 0 auto;
   position: absolute;
-  top: 10px;
   right: 0px;
-  line-height: center
+  line-height: 70px;
 }
 .nav-list{
   list-style: none;
@@ -386,12 +384,12 @@ footer{
   width: 100%;
   height: 60px;
   text-align: center;
-  padding: 22px 0;
   background-color: #ec715f;
 }
 .footer{
   color: #fafafa;
   font-size: 16px;
+  line-height: 60px;
 }
 
 /* ▽▽ハンバーガーメニュー▽▽
